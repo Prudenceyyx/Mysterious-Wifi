@@ -1,5 +1,3 @@
-//Progression:Webpage with textinput and submit button
-
 #include <SPI.h>
 #include <ESP8266WiFi.h>
 #include <SD.h>
